@@ -1,0 +1,14 @@
+{
+  "name": "pod/oxygen",
+  "type":"wordpress-plugin",
+  "description": "Oxygen Designer",
+  "minimum-stability": "stable",
+  "composer/installers": "v1.0.12",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Lewis Davies",
+      "email": "lewis@podww.com"
+    }
+  ]
+}
